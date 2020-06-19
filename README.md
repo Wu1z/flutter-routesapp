@@ -1,7 +1,7 @@
 # routesapp
 
-Named routes test
-A aplication using named routes, consuming the [JsonPlaceholder API](https://jsonplaceholder.typicode.com/)
+Named routes test.
+A aplication using named routes, consuming the [JsonPlaceholder API](https://jsonplaceholder.typicode.com/):
 
 > [/posts](https://jsonplaceholder.typicode.com/posts)
 > [/comments](https://jsonplaceholder.typicode.com/comments)
